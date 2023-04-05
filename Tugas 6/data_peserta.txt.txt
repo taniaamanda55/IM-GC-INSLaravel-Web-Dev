@@ -1,5 +1,5 @@
 Data Peserta GC-INS Bootcamp laravel We Dev
-1. Nama :
-2. Email :
-3. Akun Gitlab
-4. Akun Telegram
+1. Nama : Tania Aura Amanda
+2. Email : taniaaura2003@gmail.com
+3. Akun Gitlab : taniaamanda55
+4. Akun Telegram : @taniaauraa
